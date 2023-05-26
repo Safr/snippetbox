@@ -17,6 +17,6 @@ This is the final code from version 2 of the [Let's Go e-book by Alex Edwards](h
 
 ### Development
 
-##### `go run cmd/web/*`
+##### `go run ./cmd/web`
 
 Starts the local web server with HTTPS on port 4000 ([https://localhost:4000](https://localhost:4000))
